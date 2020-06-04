@@ -82,7 +82,7 @@ export default class EditExercises extends Component {
   render() {
     return (
       <div>
-        <h3>Logged Events</h3>
+        <h3>Log</h3>
         <table className="table">
           <thead className="thead-light">
             <tr>
