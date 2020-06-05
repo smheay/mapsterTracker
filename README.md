@@ -16,3 +16,4 @@ npm run dev
 
 Tutorial From 
 https://www.youtube.com/watch?v=7CqJlxBYj-M
+https://reactjs.org/tutorial/tutorial.html
